@@ -1,0 +1,10 @@
+{
+  "name": "@travelopia/eslint-plugin-wordpress-coding-standards",
+  "version": "0.0.1",
+  "author": "Travelopia Team",
+  "license": "MIT",
+  "main": "index.js",
+  "peerDependencies": {
+    "@wordpress/eslint-plugin": "^20.1.0"
+  }
+}
