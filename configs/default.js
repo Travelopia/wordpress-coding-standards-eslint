@@ -1,6 +1,6 @@
 module.exports = {
 	plugins: [ '@travelopia/wordpress-coding-standards' ],
-	extends: 'plugin:@wordpress/eslint-plugin/recommended-with-formatting',
+	extends: 'plugin:@wordpress/eslint-plugin/recommended',
 	overrides: [
 		{
 			'files': [ '*.ts', '*.tsx' ],
